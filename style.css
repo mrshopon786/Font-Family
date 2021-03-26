@@ -1,0 +1,98 @@
+body{
+background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+min-height: 100vh;
+}
+.f h1{
+	
+	text-align: center;
+	font-size: 3em; 
+	font-family: 'Nosifer', cursive;
+
+}
+.a{
+	width: 30%;
+	margin-top: 90px;
+	margin-left: 7px;
+	border: 2px solid red;
+	text-align: justify;
+	padding: 10px;
+
+}
+
+.a h1{
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+}
+.a p{
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	line-height: 1.6;
+	word-spacing: 5px;
+	font-weight: bold;
+
+
+}
+
+.b{
+	width: 30%;
+	margin: 0 auto;
+	margin-top: -476px;
+	border: 2px solid red;
+	text-align: justify;
+	padding: 10px;
+}
+
+.b h1{
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Lobster', cursive;
+}
+.b p{
+	font-size: 20px;
+	font-family: 'Lobster', cursive;
+	line-height: 1.6;
+	word-spacing: 10px;
+	
+}
+
+.c{
+	width: 30%;
+	height: 455px;
+	margin-left:972px;
+	margin-top:-477px;
+	border: 2px solid red;
+	text-align: justify;
+	padding: 10px;
+}
+
+.c h1{
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Galada', cursive;
+}
+.c p{
+	font-size: 20px;
+	font-family: 'Galada', cursive;
+	line-height: 1.6;
+	word-spacing: 5px;
+}
+
+#A {
+	font-size: 5em;
+    margin-left: 68px;
+}
+
+#M{
+	font-size: 5em;
+    margin-left: 60px;
+}
+
+#L{
+	font-size: 5em;
+	margin-left: 549px;
+    margin-top: 76px;
+}
+
+	
